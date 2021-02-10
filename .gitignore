@@ -3,3 +3,4 @@
 *.iml
 META_INF
 .DS_Store
+*.kotlin_module
