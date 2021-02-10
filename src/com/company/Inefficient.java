@@ -4,10 +4,6 @@ package com.company;
 import java.util.Random;
 
 public class Inefficient {
-    //  SWAP
-    // +PAWS
-    // ------
-    //  WAPA
 
     public static void main(String[] args) {
         long startTime = System.nanoTime();

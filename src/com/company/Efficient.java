@@ -8,7 +8,7 @@ public class Efficient {
         int SWAP;
         int PAWS;
         int WAPA;
-// efficient way
+
         for (int s = 0; s <= 9; s++) {
             for (int w = 0; w <= 9; w++) {
                 for (int a = 0; a <= 9; a++) {
