@@ -1,0 +1,5 @@
+.idea
+*.class
+*.iml
+META_INF
+.DS_Store
